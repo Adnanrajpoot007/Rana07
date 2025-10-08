@@ -609,7 +609,7 @@ os.system('espeak -a 300 " Assalamu' 'olaikum"')
 os.system('espeak -a 300 " What,   Is,  Your, Real, Name"')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m:\33[1;32m')
 os.system('espeak -a 300 "well,come to,Adnan Rajpoot, tools"')
-os.system('xdg-open https://www.facebook.com/https://www.facebook.com/PRINCE.RAJPOOT.0077'7)
+os.system('xdg-open https://www.facebook.com/https://www.facebook.com/PRINCE.RAJPOOT.00777)
 logo = f"""
 \033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
 
