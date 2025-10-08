@@ -609,7 +609,7 @@ os.system('espeak -a 300 " Assalamu' 'olaikum"')
 os.system('espeak -a 300 " What,   Is,  Your, Real, Name"')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m:\33[1;32m')
 os.system('espeak -a 300 "well,come to,Adnan Rajpoot, tools"')
-os.system('xdg-open https://www.facebook.com/https://www.facebook.com/PRINCE.RAJPOOT.00777)
+os.system('xdg-open https://www.facebook.com/https://www.facebook.com/PRINCE.RAJPOOT.00777')
 logo = f"""
 \033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
 
@@ -645,7 +645,7 @@ logo = f"""
 \33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mCAST     \33[38;5;160m  ▶   \033[1;97mRANA RAJPOOT
 \33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mWHATAPP    \33[38;5;160m▶  \033[1;96m+923306346604
 \33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mFEATURE    \33[38;5;160m▶  \033[1;97mOLD CLONE 
-\33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mVERSION    \33[38;5;160m▶  \033[1;96mFREE \33[38;5;37m≫ \033[1;97m0.0.7
+\33[38;5;160m[\033[1;97mᯤ\33[38;5;160m] \033[1;97mVERSION    \33[38;5;160m▶  \033[1;96mFREE \33[38;5;37m≫ \033[1;97m0.0.8
 \33[38;5;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"""
 
 def clear():
